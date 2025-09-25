@@ -65,7 +65,7 @@ body {
 }
 
 .navbar a:hover {
-  color: var(--cg-blue);
+  color: var(--cg-red);
   text-decoration: underline;
 }
 
